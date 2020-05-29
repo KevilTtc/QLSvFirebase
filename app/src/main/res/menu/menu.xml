@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/add_student"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Thêm sinh viên"/>
+
+    <item android:id="@+id/edit_inform"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Sửa thông tin"/>
+
+    <item android:id="@+id/delete_inform"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Xóa"/>
+</menu>

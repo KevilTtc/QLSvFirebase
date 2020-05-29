@@ -1,0 +1,2 @@
+rootProject.name='QLSvFireBase'
+include ':app'
